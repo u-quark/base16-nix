@@ -15,6 +15,14 @@
     "deepClone": false,
     "leaveDotGit": false
   },
+  "black-metal": {
+    "url": "https://github.com/metalelf0/base16-black-metal-scheme",
+    "rev": "cdfb3d2f3020648338253587917244eff4034781",
+    "sha256": "13pm3r2k9dvjszg2lsxw9qb3s0379dn0ypi2n0mz309zfcdkjznr",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
   "brogrammer": {
     "url": "https://github.com/piggyslasher/base16-brogrammer-scheme",
     "rev": "e2f190582e8bb70e507ae710ac1d74a0776643f8",
@@ -99,6 +107,14 @@
     "url": "https://github.com/jssee/base16-framer-scheme",
     "rev": "f4e15f3182132c57e8294ba235862404e419256f",
     "sha256": "0icy44k79wl2wqvrcbfn4f7nkgi2npvvv8nz0fad8khnncf07k0q",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "fruit-soda": {
+    "url": "https://github.com/jozip/base16-fruit-soda-scheme",
+    "rev": "38144b1a06466c341ddffc45f8b592f211fdcc06",
+    "sha256": "09vrayyg82fjja0wkmlfaz7h4j28sibz4nc2hzyinaks5b9ja0wi",
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
@@ -191,10 +207,26 @@
     "deepClone": false,
     "leaveDotGit": false
   },
+  "material-vivid": {
+    "url": "https://github.com/joshyrobot/base16-material-vivid-scheme",
+    "rev": "1e8f5962f19d7b76a9f6d807868096cb41c442ea",
+    "sha256": "10s3a50bx8m22d0zlisxnznvrcq57y9vqcbk86446q76gpf1bisk",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
   "mellow": {
     "url": "https://github.com/gidsi/base16-mellow-scheme",
     "rev": "3822819f1621a8de385bbdef5d2d9c2d6ae73212",
     "sha256": "1wl93yq0d865j78fhwl9xym1vj05yz75k3gwp0pc7ms289jaa3j6",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "mexico-light": {
+    "url": "https://github.com/drzel/base16-mexico-light-scheme",
+    "rev": "b287a29afc299d16667cf497325981068f89f749",
+    "sha256": "0qsmixipxb12lalfpxxp2ni5k3byy67gnrdr2frryny9iwglw742",
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
@@ -211,6 +243,14 @@
     "url": "https://github.com/gessig/base16-nova-scheme",
     "rev": "d0bc7162c69d61b62784e8fe5a9e60b3e6c4af3c",
     "sha256": "1pfyyni5v8m309y8s3vlz8al4jcirx40gx0wy2vbncg9557s4kdl",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "one-light": {
+    "url": "https://github.com/purpleKarrot/base16-one-light-scheme",
+    "rev": "be2ca48d1abc87f9d9eb61f48f64891469ce9f0f",
+    "sha256": "199zjydr082krdpidqadidddpy2j8w8qiacl427sdf2w5zv0s33v",
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
@@ -303,6 +343,14 @@
     "deepClone": false,
     "leaveDotGit": false
   },
+  "synth-midnight": {
+    "url": "https://github.com/michael-ball/base16-synth-midnight-scheme",
+    "rev": "22d57ccdddc70045e7bcab186625d740f874c990",
+    "sha256": "1vggy2jpf35zv2m8z40gqh9f83jm8hs9zps9vi4z2c5ic9047xrs",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
   "tomorrow": {
     "url": "https://github.com/chriskempson/base16-tomorrow-scheme",
     "rev": "af9622bd6a041561837a865df5e15802d99d156a",
@@ -339,6 +387,14 @@
     "url": "https://github.com/elnawe/base16-zenburn-scheme",
     "rev": "e0b00a2675feed5f50ba7c07a09fc3d4ac68982d",
     "sha256": "1hnlixvq0czf1day80jzf0hs1h1wbzkjhg3s1p5aacbgk71y2gyb",
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "xcode-dusk": {
+    "url": "https://github.com/gonsie/base16-xcode-dusk-scheme",
+    "rev": "921bdb002bb8f529c7a1bc8e847c73e188ed9682",
+    "sha256": "1lypfck3wjl2j3470mm39vvsiycwkmi2572fvksd6qwk5rp7kfgg",
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
